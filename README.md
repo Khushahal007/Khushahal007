@@ -7,7 +7,7 @@
 - 👋 Hi, I’m @Khushahal007
 - 👀 I’m interested in coding to build user friendly webiste and do penetration testing.
 - 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on bulid website. 
+- 💞️ I’m looking for collaborate to bulid website. 
 - 📫 How to reach me sharmapckhushal007@gmail.com
 
 
