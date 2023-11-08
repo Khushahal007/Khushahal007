@@ -3,14 +3,12 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif" width="360px"/>
  
-
-- 👋 Hi, I’m @Khushahal007
-
-    👀 I’m interested in coding to build user-friendly websites and conducting penetration testing.
-    🌱 I am actively seeking employment opportunities.
-    💞️ I'm eager to contribute to website projects.
-    📫 You can reach me at sharmapckhushal007@gmail.com
-    📞 Feel free to call me at +918875611351.
+Hi, I’m @Khushahal007
+- 👀 I’m interested in coding to build user-friendly websites and conducting penetration testing.
+- 🌱 I am actively seeking employment opportunities.
+- 💞️  I'm eager to contribute to website projects. 
+- 📫 How to reach me sharmapckhushal007@gmail.com
+- 📞 If you want ti talk then call +918875611351
 
 
 <h3 align="left">Languages and Tools:</h3>
