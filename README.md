@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Khushahal Sharma</h1>
-<h3 align="left">Hey! It's Khushahal Sharna As a tech enthusiast with a strong background in web development. My career is a fusion of creating responsive, user-friendly websites, and I actively seek job opportunities to contribute and expand my expertise. If you have a suitable opportunity, please feel free to reach out to me here. 🛠️</h3>
+<h3 align="left">As a tech enthusiast with a strong background in web development. My career is a fusion of creating responsive, user-friendly websites, and I actively seek job opportunities to contribute and expand my expertise. If you have a suitable opportunity, please feel free to reach out to me here. 🛠️</h3>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif" width="360px"/>
  
