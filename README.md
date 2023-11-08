@@ -1,15 +1,16 @@
 <h1 align="left">Hi 👋, I'm Khushahal Sharma</h1>
-<h3 align="left">I've had a fascination with technology since I was a child.This enthusiasm takes me very far in my career as well as in my knowledge. From here, I want to explore tech things as much as I can. Through this, I am a web developer as well as a penetration tester. Penetration testing is a field in which I find bugs or vulnerabilities on websites and report them to the companies that own them.As a web developer, I want to advocate for websites that are responsive and easy to navigate🛠️</h3>
+<h3 align="left">Hey! It's Khushahal Sharna As a tech enthusiast with a strong background in web development. My career is a fusion of creating responsive, user-friendly websites, and I actively seek job opportunities to contribute and expand my expertise. If you have a suitable opportunity, please feel free to reach out to me here. 🛠️</h3>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif" width="360px"/>
 
 
 - 👋 Hi, I’m @Khushahal007
-- 👀 I’m interested in coding to build user friendly webiste and do penetration testing.
-- 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking for collaborate to bulid website. 
-- 📫 How to reach me sharmapckhushal007@gmail.com
-- 📞 If you want ti talk then call +918875611351
+
+    👀 I’m interested in coding to build user-friendly websites and conducting penetration testing.
+    🌱 I am actively seeking employment opportunities.
+    💞️ I'm eager to contribute to website projects.
+    📫 You can reach me at sharmapckhushal007@gmail.com
+    📞 Feel free to call me at +918875611351.
 
 
 <h3 align="left">Languages and Tools:</h3>
